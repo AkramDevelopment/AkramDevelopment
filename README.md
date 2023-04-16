@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Your Name]! 🚀
+# 👋 Hey, I'm Akram! 🚀
 
 ## 🌟 Founder of Lynck Tech Solutions & Startup Trailblazer
 I believe in empowering startups by offering expert guidance and helping them bring their visions to life. As a visionary leader, I thrive on innovation and never shy away from a challenge.
