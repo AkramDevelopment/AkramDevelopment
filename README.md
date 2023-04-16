@@ -18,5 +18,3 @@ I'm always excited to chat, brainstorm ideas, and collaborate on projects. Reach
 - 🐦 Twitter: [@Akram_LTS](https://twitter.com/Akram_LTS)
 - 📧 Email: [akram@lyncktechsolutions.com](mailto:akram@lyncktechsolutions.com)
 
-## 📊 My Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkramDevelopment&show_icons=true&theme=radical)
