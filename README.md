@@ -16,7 +16,7 @@ As the Chief Technologist at Lynck Tech Solutions and an enthusiast for all thin
 I believe in the power of collaboration to elevate technology beyond its current limits. Whether your codebase is mature or just starting to compile, let's make an impact together.
 
 - ⏰ Set up a strategy session on [Calendly](https://calendly.com/akram-lts).
-- 🐦 For a quick byte of wisdom or a long thread of thought, find me on Twitter `[@Akram_LTS]`.
+- 🐦 For a quick byte of wisdom or a long thread of thought, find me on  [Twitter](https://twitter.com/Akram_LTS).
 - 📧 Direct your digital post to `akram@lyncktechsolutions.com`. I'm always open to decoding new messages and brewing up collaborations.
 
 🚀 When you're ready to take your ideas to the next level, `git push` with me. Every line of code we write is a step towards a future etched in silicon and powered by human creativity.
